@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "HeapCog"
 title_separator          : "-"
 subtitle                 : "Cognitive Flexibility" # site tagline that appears below site title in masthead
-name                     : "Pani"
-description              : " STEM | Photography | Books | "
+name                     : ".."
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Pani"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "STEM | Blog | Photography"
+  bio              : "More than two decades of experience in I.T. Exploring new technolgoies and passing it on to the NeXT..."
   location         : "Midwest"
   email            :
   links:
