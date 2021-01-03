@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: /about/
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/
   - title: "Books"
     url: /books/
-  - title: "Sitemap"
-    url: /sitemap/
+  #- title: "Sitemap"
+  #  url: /sitemap/
  
 
 # sidebar navigation list sample

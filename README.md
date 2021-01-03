@@ -5,15 +5,15 @@
 [![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/mmistakes)
 
-Welcome to my site. This site has been built with Github pages and Jekyll. I will be sharing my thought on the articles on various areas.
+Welcome to my site. This site has been built with Github pages and Jekyll. I will be sharing my thoughts on various areas.
 This may cover technology, science, math, photography etc...
  
 
 ## Technology
 
 - Started with various programming languages which include Fortan, Pascal, COBOL, C, C++, MFC, VC++, VB.
-- After leanrning VB I steered towards Microsoft technologies most of my time.
-- Exploring Python 
+- After leanrning VB I steered towards Microsoft technologies and most of my time in the last decade.
+- Currently I'm exploring Python  & A.I.
 
 ## STEM
 
