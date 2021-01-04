@@ -10,7 +10,7 @@ Welcome to my site. This site has been built with Github pages and Jekyll. I wil
 ## Technology
 
 > Started with various programming languages Fortan, Pascal, COBOL, C, C++, MFC, VC++, VB.
-After leanrning VB I've steered towards Microsoft technologies and spent most of my time in the last decade.
+After leanrning VB I've steered towards Microsoft technologies and spent most of my time with .Net technologies in the last decade.
 Currently I'm exploring Python  & A.I.
 
 ## STEM
