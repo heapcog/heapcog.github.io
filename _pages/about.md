@@ -8,7 +8,7 @@ header:
   #overlay_color: "#000"
   #overlay_filter: "0.5"
   #overlay_image: /assets/images/about.png
-  image: /assets/images/about.png
+  image: /assets/images/about.gif
   #actions:
   # - label: "Learn More"
   #   url: "/terms/"
