@@ -8,5 +8,4 @@ tags:
   - update
 ---
 
-Welcomg to Heapcog. I am able to create this site by Github Pages, Ruby and Jekyll.
-
+Welcome to Heapcog. This site will have a collection of different things and hope this will help someone out in the world to get a pointer on what they are looking for.

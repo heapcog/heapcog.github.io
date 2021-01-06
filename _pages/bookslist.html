@@ -1,0 +1,59 @@
+---
+title: Books
+#description: Some of the books that I've read over the years. 
+layout: splash
+permalink: /books/
+redirect_from: books
+read_time: false
+service_version: 20070822
+books_per_row: 3
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  #actions:
+  # - label: "Learn More"
+  #   url: "/terms/"
+ # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Some of the books I have read over the years..."
+---
+
+<div class="lead mb-2">
+  {{ page.description | mardownify }}
+</div>
+
+{% for group in site.data.books %}
+
+<!-- <h3 id="{{ group[0] | slugify }}" class="book-group">{{ group[0] }}</h3> -->
+
+  {% for book in group[1] %}
+    {% assign column_number = forloop.index0 | modulo:page.books_per_row %}
+
+    {% if column_number == 0 %}
+      <div class="row pt-2">
+    {% endif %}
+
+    <div class="col-md-{{ 12 | divided_by:page.books_per_row }} text-center">
+      <a href="https://www.amazon.com/gp/product/{{ book.asin }}/?tag={{ site.amazon.affiliates_tag }}">
+        <div class="mb-2">
+          <img
+            src="https://ws-na.amazon-adsystem.com/widgets/q?ASIN={{ book.asin }}&ServiceVersion={{ page.service_version }}&ID=AsinImage&WS=1&Format=_SL110_&tag={{ site.amazon.affiliates_tag }}"
+            alt="{{ book.title | mardownify | strip_html }}"
+          />
+        </div>
+
+        <div class="title font-weight-bold min-y-5">
+          {{ book.title | mardownify }}
+        </div>
+      </a>
+
+      <div class="small text-justify">
+        {{ book.tldr | markdownify }}
+      </div>
+    </div>
+
+    {% if column_number == 2 or forloop.rindex == 1 %}
+      </div>
+    {% endif %}
+  {% endfor %}
+{% endfor %}

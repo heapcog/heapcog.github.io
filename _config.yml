@@ -85,7 +85,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag"  # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-D446HBJ0BQ"
     anonymize_ip         : # true, false (default)
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Pani"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "More than two decades of experience in I.T. Exploring new technolgoies and passing it on to the NeXT..."
+  bio              : "More than two decades of experince in I.T., passionate to explore different tools and technologies!"
   location         : "Midwest"
   email            :
   links:
@@ -265,6 +265,8 @@ compress_html:
   ignore:
     envs: development
 
+amazon:
+  affiliates_tag: heapcogamzn20-20
 
 # Defaults
 defaults:
