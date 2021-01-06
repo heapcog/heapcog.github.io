@@ -45,9 +45,8 @@ While building I needed to verify my config.yml file. You can use the following 
 
 Here are some of the links to other options...
 
-Open-source, asp.net framework. 
-[OrchardCore]('https://www.orchardcore.net/')
+Open-source, asp.net framework. [OrchardCore](https://www.orchardcore.net/)
 
-[Cutting hosting costs by 99% with static websites on Azure]('https://medium.com/@squalrus/cutting-hosting-costs-by-99-with-static-websites-on-azure-44483b6b2c3f')
+[Cutting hosting costs by 99% with static websites on Azure](https://medium.com/@squalrus/cutting-hosting-costs-by-99-with-static-websites-on-azure-44483b6b2c3f)
 
-[Building a serverless blog site on Azure]('https://dev.to/effectory/building-a-serverless-blog-site-on-azure-1phd')
+[Building a serverless blog site on Azure](https://dev.to/effectory/building-a-serverless-blog-site-on-azure-1phd)
