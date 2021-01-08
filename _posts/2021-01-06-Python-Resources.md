@@ -13,6 +13,8 @@ tags:
 
 There are many resources out there to learn Python. One can choose any tool that supports Python development and to explore.
 
+ 
+
 > | Site Name | Link |Notes|
 |-------|-------|-------|
 | Educative.io | [Link](https://educative.io) | Register and look for Learn Python 3 from Scratch. It's free and you will get to see the progress and can take mutiple tests while learning this course from this site.
@@ -28,6 +30,7 @@ There are many resources out there to learn Python. One can choose any tool that
   {% include video id="QXeEoD0pB3E" provider="youtube" %}
  
 
+<i class="fas fa-thumbs-up"></i> Thanks to [Mahanthi Bukkapatnam](https://github.com/MahanthiBukkapatnam) <i class="fab fa-fw fa-github"></i>, who shared some of these sites. 
 
 
  
