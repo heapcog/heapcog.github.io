@@ -22,7 +22,7 @@ tags:
 Deliver cutting-edge tech instruction to students
 As an educator, you play a pivotal role in empowering students for future success! At Microsoft, we're committed to supporting you on this journey with free curriculum, training, and tools for teaching.
 
- [Algorithms](https://docs.microsoft.com/en-us/learn/roles/educator/?WT.mc_id=techcom_learn-blog-wwl)
+ [Microsoft Learn for Educators](https://docs.microsoft.com/en-us/learn/roles/educator/?WT.mc_id=techcom_learn-blog-wwl)
 
 
 [Architecture guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
