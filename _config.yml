@@ -292,3 +292,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+
+      #bundle exec jekyll serve

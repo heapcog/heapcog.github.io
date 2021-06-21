@@ -30,11 +30,11 @@ Jekyll
 
 When you install GIT make sure the default editor is set to VS code.
 
-<!--For detailed instructions following these two links which will guide you to setup and create your site.
+For detailed instructions following these two links which will guide you to setup and create your site.
 
 'https://purple.telstra.com.au/blog/opensource-blogging-with-jekyll-github-vscode-part-1'
 'https://purple.telstra.com.au/blog/opensource-blogging-with-jekyll-github-vscode-part-2'
--->
+
 
 Jekyll have may themes which one can leverage to build a site.
 [Jekyll themes](https://jekyllrb.com/docs/themes/)
