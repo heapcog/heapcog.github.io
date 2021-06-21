@@ -11,7 +11,7 @@ tags:
  
 ---
 
-> Vow, never knew this exists... Star Wars in Telnet
+> WOW, never knew this exists... Star Wars in Telnet
 
 Watch ASCII version of Star Wars in command prompt window.
 
